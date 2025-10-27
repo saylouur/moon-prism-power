@@ -1,0 +1,20 @@
+h1{
+    color: purple;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 65px;
+    text-align: center;
+
+}
+img{
+    position: absolute;
+    right: 0;
+    top: 15px;
+}
+h2{
+    color: purple;
+    position: absolute;
+    Top: 100PX;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+}
+
